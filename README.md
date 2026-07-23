@@ -1,37 +1,37 @@
 # Albert Fiestas Salapi
 
-**Ingeniero de Software** — productos full-stack y agentes de IA.
+**Software Engineer** — full-stack products and AI agents.
 Lima, Perú
 
 [LinkedIn](https://www.linkedin.com/in/albert-fiestas-salapi/) · [Email](mailto:ialbert_510@hotmail.com) · [notimetowaste.lat](https://notimetowaste.lat)
 
 ---
 
-## Proyectos destacados
+## Selected work
 
-| Proyecto | Qué resuelve | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| **[AhorraPerú](https://github.com/Fcktor/ahorra-peru)** — [demo](https://ahorra-peru.vercel.app) | App móvil que responde dónde poner tus soles para que realmente generen intereses. Tasas del BCRP en vivo, comparador y plan personalizado. | React Native · Expo · TypeScript · Supabase |
-| **[No Time To Waste](https://github.com/Fcktor/notimetowaste)** — [en vivo](https://notimetowaste.lat) | Tienda de relojes. Storefront y panel de administración en una sola app Next.js, con el catálogo en BigQuery detrás de Cloud Functions dedicadas. | Next.js 16 · TypeScript · GCP · Tailwind |
-| **[Kardex Agent](https://github.com/Fcktor/kardex-agent)** | Agente que maneja el navegador para cargar inventario masivamente en un sistema que tiene interfaz web pero no endpoint de importación. Lee un Excel, llena el formulario y reporta qué falló. | browser-use · Groq · Playwright · Python |
-| **[LangGraph Agent](https://github.com/Fcktor/langgraph-agent)** | Agente conversacional que decide por su cuenta cuándo buscar en la web, con memoria que sobrevive a los reinicios. Modelado como un grafo de estados explícito. | LangGraph · Groq · Tavily · SQLite |
-| **[Crypto Trading Bot](https://github.com/Fcktor/crypto-trading-bot)** | Acumulación automática de BTC con los controles de riesgo que al DCA normalmente le faltan: stop-loss, límite de pérdida diaria, dimensionamiento de posición y backtesting. | Python · Binance API · Flask |
-| **[Alarm Object Detection](https://github.com/Fcktor/alarm-object-detection)** | Alarma que solo se apaga si fotografías un objeto real. El reconocimiento corre en el dispositivo: ninguna imagen sale del teléfono. | Flutter · Dart · Google ML Kit |
+| **[AhorraPerú](https://github.com/Fcktor/ahorra-peru)** — [demo](https://ahorra-peru.vercel.app) | Mobile app that answers where to put your soles so they actually earn interest. Live BCRP rates, comparison engine and a personalized plan. | React Native · Expo · TypeScript · Supabase |
+| **[No Time To Waste](https://github.com/Fcktor/notimetowaste)** — [live](https://notimetowaste.lat) | Watch e-commerce store. Storefront and admin in one Next.js app, catalog in BigQuery behind dedicated Cloud Functions. | Next.js 16 · TypeScript · GCP · Tailwind |
+| **[Kardex Agent](https://github.com/Fcktor/kardex-agent)** | Browser-driving agent that bulk-loads inventory into a web app that has a UI but no import endpoint. Reads a spreadsheet, fills the form, reports what failed. | browser-use · Groq · Playwright · Python |
+| **[LangGraph Agent](https://github.com/Fcktor/langgraph-agent)** | Conversational agent that decides on its own when to search the web, with memory that survives restarts. Modeled as an explicit state graph. | LangGraph · Groq · Tavily · SQLite |
+| **[Crypto Trading Bot](https://github.com/Fcktor/crypto-trading-bot)** | Automated BTC accumulation with the risk controls DCA usually lacks: stop-loss, daily loss limits, position sizing, backtesting. | Python · Binance API · Flask |
+| **[Alarm Object Detection](https://github.com/Fcktor/alarm-object-detection)** | An alarm you can only switch off by photographing a real object. Recognition runs on-device — no image leaves the phone. | Flutter · Dart · Google ML Kit |
 
 ## Stack
 
 | | |
 |---|---|
-| **Lenguajes** | TypeScript · Python · Dart · PHP · SQL |
+| **Languages** | TypeScript · Python · Dart · PHP · SQL |
 | **Frontend** | React · Next.js · React Native (Expo) · Tailwind CSS |
 | **Backend** | Node.js · Hono · NextAuth · PostgreSQL · MySQL |
-| **IA** | LangGraph · browser-use · Anthropic API · Groq |
+| **AI** | LangGraph · browser-use · Anthropic API · Groq |
 | **Cloud** | Google Cloud (BigQuery, Cloud Functions, Storage) · Firebase · Vercel · Supabase |
 
-## Sobre mí
+## About
 
-Ingeniero de sistemas. Construyo de punta a punta: el cliente móvil, la API, el almacén de datos del que lee y, cada vez más, los agentes que lo operan.
+Systems engineer. I build things end to end — the mobile client, the API, the warehouse it reads from, and increasingly the agents that operate them.
 
-Últimamente mi trabajo vive en la frontera entre producto y LLMs: agentes que manejan interfaces reales, capas de lenguaje natural sobre datos de negocio, y la plomería poco glamorosa que hace que cualquiera de los dos sea lo bastante confiable como para dejarlo corriendo.
+Lately most of my work sits at the boundary between products and LLMs: agents that drive real interfaces, natural-language layers over business data, and the unglamorous plumbing that makes either of them reliable enough to leave running.
 
-Abierto a posiciones de ingeniería de software e ingeniería de IA.
+Open to software engineering and AI engineering roles.
