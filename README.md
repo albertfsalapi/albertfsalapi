@@ -3,7 +3,7 @@
 **Software Engineer** — full-stack products and AI agents.
 Lima, Perú
 
-[LinkedIn](https://www.linkedin.com/in/albert-fiestas-salapi/) · [Email](mailto:ialbert_510@hotmail.com) · [notimetowaste.lat](https://notimetowaste.lat)
+[LinkedIn](https://www.linkedin.com/in/albert-fiestas-salapi/) · [Email](mailto:ialbert_510@hotmail.com) ·
 
 ---
 
