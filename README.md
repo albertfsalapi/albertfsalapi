@@ -1,10 +1,23 @@
-# Albert Fiestas Salapi
+<div align=center>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola%2C+soy+Albert+%F0%9F%91%8B;Ingeniero+de+Sistemas;Full-Stack+%26+Agentes+de+IA;Construyendo+en+ReechAI;Abierto+a+roles+SWE%2FIA" alt="Headline" />
+</div>
+<div align="center">
 
+<img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
+
+[![GitHub Followers](https://img.shields.io/github/followers/albertfsalapi?label=Follow&style=social)](https://github.com/albertfsalapi)
+[![GitHub Stars](https://img.shields.io/github/stars/albertfsalapi?style=social)](https://github.com/albertfsalapi)
+
+</div>
 **Software Engineer** — full-stack products and AI agents.
 Currently at [ReechAI](https://reechai.com). Perú
 
 [LinkedIn](https://www.linkedin.com/in/albert-fiestas-salapi/) · [Email](mailto:ialbert_510@hotmail.com) ·
-
+<div align=center>
+        <a href="(https://www.linkedin.com/in/albert-fiestas-salapi/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://www.instagram.com/fucktor_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+        <a href="mailto:sk8punkero@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    </div>
 ---
 
 ## Selected work
@@ -37,3 +50,16 @@ Lately most of my work sits at the boundary between products and LLMs: agents th
 Currently building AI agents and automation at ReechAI — conversational and browser-driving agents for customer-facing operations.
 
 Open to software engineering and AI engineering roles.
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/albertfsalapi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=albertfsalapi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=albertfsalapi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+| Snake Eating Contributions in the last year |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/albertfsalapi-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
