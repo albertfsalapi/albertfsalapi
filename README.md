@@ -9,10 +9,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/albertfsalapi?style=social)](https://github.com/albertfsalapi)
 
 </div>
-**Software Engineer** — full-stack products and AI agents.
-Currently at [ReechAI](https://reechai.com). Perú
 
-[LinkedIn](https://www.linkedin.com/in/albert-fiestas-salapi/) · [Email](mailto:ialbert_510@hotmail.com) ·
 <div align=center>
         <a href="(https://www.linkedin.com/in/albert-fiestas-salapi/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://www.instagram.com/fucktor_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
