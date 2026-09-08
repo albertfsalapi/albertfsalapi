@@ -60,6 +60,6 @@ Open to software engineering and AI engineering roles.
 </a>
 </p>
 
-| Snake Eating Contributions in the last year |
+| Snake comiendo mis contribuciones del último año |
 | ------------------------------------------|
-| ![snakkeee](https://github.com/albertfsalapi-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+| ![snake](https://raw.githubusercontent.com/albertfsalapi/albertfsalapi/output/github-contribution-grid-snake-dark.svg) |
