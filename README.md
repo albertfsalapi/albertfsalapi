@@ -1,7 +1,7 @@
 # Albert Fiestas Salapi
 
 **Software Engineer** — full-stack products and AI agents.
-Perú
+Currently at [ReechAI](https://reechai.com). Perú
 
 [LinkedIn](https://www.linkedin.com/in/albert-fiestas-salapi/) · [Email](mailto:ialbert_510@hotmail.com) ·
 
@@ -33,5 +33,7 @@ Perú
 Systems engineer. I build things end to end — the mobile client, the API, the warehouse it reads from, and increasingly the agents that operate them.
 
 Lately most of my work sits at the boundary between products and LLMs: agents that drive real interfaces, natural-language layers over business data, and the unglamorous plumbing that makes either of them reliable enough to leave running.
+
+Currently building AI agents and automation at ReechAI — conversational and browser-driving agents for customer-facing operations.
 
 Open to software engineering and AI engineering roles.
