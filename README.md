@@ -52,8 +52,8 @@ Open to software engineering and AI engineering roles.
 
 <p align="center">
 <a href="https://github.com/albertfsalapi">
-  <img height="180em" alt="Estadísticas de GitHub de Albert" src="https://albert-readme-stats.vercel.app/api?username=albertfsalapi&show_icons=true&theme=algolia&cache_seconds=7200"/>
-  <img height="180em" alt="Lenguajes más usados" src="https://albert-readme-stats.vercel.app/api/top-langs/?username=albertfsalapi&layout=compact&langs_count=8&theme=algolia&size_weight=0.5&count_weight=0.5&cache_seconds=7200"/>
+  <img height="180em" alt="Estadísticas de GitHub de Albert" src="https://albert-readme-stats.vercel.app/api?username=albertfsalapi&show_icons=true&theme=algolia&cache_seconds=7200&v=2"/>
+  <img height="180em" alt="Lenguajes más usados" src="https://albert-readme-stats.vercel.app/api/top-langs/?username=albertfsalapi&layout=compact&langs_count=8&theme=algolia&size_weight=0.5&count_weight=0.5&cache_seconds=7200&v=2"/>
 </a>
 </p>
 
